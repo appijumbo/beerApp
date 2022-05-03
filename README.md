@@ -48,4 +48,10 @@ A mixture of different info & tools for those that enjoy a good beer. However th
 - TDD: Jest, React Native Testing library
 - TypeScript
 
+## Github Actions
+
+So auto tests when pushed to Github
+
+### For the above
+
 All in stages and multiple versions
